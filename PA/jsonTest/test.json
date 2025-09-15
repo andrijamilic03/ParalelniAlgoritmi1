@@ -1,0 +1,7 @@
+{
+    "image_id": "1",
+    "transformations": ["brightness"],
+    "output_file": "output/output5.jpg",
+    "blur_level": 2,
+    "brightness_level": -3.5
+}
